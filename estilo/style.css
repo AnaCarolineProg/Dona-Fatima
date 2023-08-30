@@ -28,15 +28,17 @@ header > h2 {
 section{
     padding-top: 30px;
     padding-left: 15vw;
+    font-family: 'Sacramento', cursive;
+    font-size: 3vw;
 }
 
-section > p {
-    font-family: 'Sacramento', cursive;
-    font-size: 22pt;
-}
 
 section#final {
     font-size: 14pt
+}
+
+div{
+    text-align: center;
 }
 
 footer {
